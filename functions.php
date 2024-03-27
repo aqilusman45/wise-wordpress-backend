@@ -291,6 +291,7 @@ if (!function_exists('add_query_meta')) {
 				if ('blog' == $linkedPost->post_type) {
 					$linkedPost->author_image = get_field('authorimage', $linkedPost, false);
 					$linkedPost->author_url = wp_get_attachment_image_url($linkedPost->author_image, 'full');
+					$linkedPost->category = get_the_terms($linkedPost, 'blog-category');
 				}
 				if ('reviews' == $linkedPost->post_type) {
 					$linkedPost->social_logo = get_field('logo', $linkedPost, false);
