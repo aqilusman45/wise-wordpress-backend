@@ -1,0 +1,13 @@
+{
+    "name": "acf/reviewsection",
+    "title": "Reviews Section",
+    "description": "Hero Main section.",
+    "category": "design",
+    "keywords": ["reviews",  "reviews section", "section"],
+    "icon": "button",
+    "apiVersion": 2,
+    "acf": {
+        "renderTemplate": "./reviewsection.php",
+        "mode": "preview"
+    }
+}

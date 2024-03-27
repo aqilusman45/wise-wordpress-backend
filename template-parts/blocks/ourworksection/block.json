@@ -1,0 +1,12 @@
+{
+    "name": "acf/ourworksection",
+    "title": "Our Work Section",
+    "category": "design",
+    "keywords": ["our work section", "our", "animation"],
+    "icon": "button",
+    "apiVersion": 2,
+    "acf": {
+        "renderTemplate": "./ourworksection.php",
+        "mode": "preview"
+    }
+}

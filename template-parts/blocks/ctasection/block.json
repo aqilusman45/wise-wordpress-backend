@@ -1,0 +1,13 @@
+{
+    "name": "acf/ctasection",
+    "title": "Cta Section",
+    "description": "Cta section",
+    "category": "design",
+    "keywords": ["cta section", "cta", "sections"],
+    "icon": "button",
+    "apiVersion": 2,
+    "acf": {
+        "renderTemplate": "./ctasection.php",
+        "mode": "preview"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "acf/twocolumnsection",
+    "title": "Two Column Section",
+    "description": "A call to action button",
+    "category": "design",
+    "keywords": ["column", "section", "two column"],
+    "icon": "button",
+    "apiVersion": 2,
+    "acf": {
+        "renderTemplate": "./twocolumnsection.php",
+        "mode": "preview"
+    }
+}

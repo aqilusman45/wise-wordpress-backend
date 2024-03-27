@@ -1,0 +1,13 @@
+{
+    "name": "acf/testimonialsection",
+    "title": "Testimonial Section",
+    "description": "Testimonial section.",
+    "category": "design",
+    "keywords": ["testimonial",  "testimonial section", "section"],
+    "icon": "button",
+    "apiVersion": 2,
+    "acf": {
+        "renderTemplate": "./testimonialsection.php",
+        "mode": "preview"
+    }
+}

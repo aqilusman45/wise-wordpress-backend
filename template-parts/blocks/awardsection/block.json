@@ -1,0 +1,13 @@
+{
+    "name": "acf/awardsection",
+    "title": "Award Section",
+    "description": "Award Section",
+    "category": "design",
+    "keywords": ["award section", "slider", "award", "section"],
+    "icon": "button",
+    "apiVersion": 2,
+    "acf": {
+        "renderTemplate": "./awardsection.php",
+        "mode": "preview"
+    }
+}

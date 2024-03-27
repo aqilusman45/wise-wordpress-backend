@@ -1,0 +1,13 @@
+{
+    "name": "acf/reviewsbadgessection",
+    "title": "Reviews Badges Section",
+    "description": "Hero Main section.",
+    "category": "design",
+    "keywords": ["reviews", "badges", "reviews badges", "section"],
+    "icon": "button",
+    "apiVersion": 2,
+    "acf": {
+        "renderTemplate": "./reviewsbadgessection.php",
+        "mode": "preview"
+    }
+}

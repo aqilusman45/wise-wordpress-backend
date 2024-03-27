@@ -1,0 +1,13 @@
+{
+    "name": "acf/blogsection",
+    "title": "Blog Section",
+    "description": "Blog Section",
+    "category": "design",
+    "keywords": ["blog section", "sections", "home"],
+    "icon": "button",
+    "apiVersion": 2,
+    "acf": {
+        "renderTemplate": "./blogsection.php",
+        "mode": "preview"
+    }
+}

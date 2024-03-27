@@ -1,0 +1,12 @@
+{
+    "name": "acf/privacypolicy",
+    "title": "Privacy Policy",
+    "category": "design",
+    "keywords": ["privacy policy", "section", "component"],
+    "icon": "button",
+    "apiVersion": 2,
+    "acf": {
+        "renderTemplate": "./privacypolicy.php",
+        "mode": "preview"
+    }
+}

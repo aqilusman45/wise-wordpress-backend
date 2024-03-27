@@ -1,0 +1,13 @@
+{
+    "name": "acf/hero",
+    "title": "Hero",
+    "description": "Hero Main section.",
+    "category": "design",
+    "keywords": ["hero", "section"],
+    "icon": "button",
+    "apiVersion": 2,
+    "acf": {
+        "renderTemplate": "./hero.php",
+        "mode": "preview"
+    }
+}

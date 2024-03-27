@@ -1,0 +1,13 @@
+{
+    "name": "acf/homeintrosection",
+    "title": "Home Intro Section",
+    "description": "Home Intro Section",
+    "category": "design",
+    "keywords": ["home sections", "intro section", "home intro section"],
+    "icon": "button",
+    "apiVersion": 2,
+    "acf": {
+        "renderTemplate": "./homeintrosection.php",
+        "mode": "preview"
+    }
+}

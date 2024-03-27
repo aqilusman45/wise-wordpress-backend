@@ -1,0 +1,13 @@
+{
+    "name": "acf/testimonialhero",
+    "title": "Testimonials Hero",
+    "description": "Hero Testimonials",
+    "category": "design",
+    "keywords": ["hero", "testimonial", "section"],
+    "icon": "button",
+    "apiVersion": 2,
+    "acf": {
+        "renderTemplate": "./testimonialhero.php",
+        "mode": "preview"
+    }
+}

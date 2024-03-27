@@ -1,0 +1,13 @@
+{
+    "name": "acf/navbar",
+    "title": "Navbar",
+    "description": "Navbar",
+    "category": "design",
+    "keywords": ["navbar", "menu bar", "nav links"],
+    "icon": "button",
+    "apiVersion": 2,
+    "acf": {
+        "renderTemplate": "./navbar.php",
+        "mode": "preview"
+    }
+}

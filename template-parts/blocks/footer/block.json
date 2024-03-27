@@ -1,0 +1,13 @@
+{
+    "name": "acf/footer",
+    "title": "Footer",
+    "description": "Footer",
+    "category": "design",
+    "keywords": ["footer", "component"],
+    "icon": "button",
+    "apiVersion": 2,
+    "acf": {
+        "renderTemplate": "./footer.php",
+        "mode": "preview"
+    }
+}

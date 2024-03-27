@@ -1,0 +1,13 @@
+{
+    "name": "acf/companysection",
+    "title": "Company Section",
+    "description": "Animation Section",
+    "category": "design",
+    "keywords": ["company section", "animation section", "section"],
+    "icon": "button",
+    "apiVersion": 2,
+    "acf": {
+        "renderTemplate": "./companysection.php",
+        "mode": "preview"
+    }
+}
