@@ -1,5 +1,4 @@
 <?php
-  echo 'testimonial section';
   $subtitle = get_field('subtitle');
   $title = get_field('title');
   $reviews = get_field('reviews');
